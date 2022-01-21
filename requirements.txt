@@ -1,7 +1,7 @@
 cloudpickle==0.6.1
 gdown==3.6.4
 h5py==2.8.0
-ipython==5.5.0
+ipython==7.16.3
 ipython-genutils==0.2.0
 ipython-sql==0.3.9
 jupyter==1.0.0
