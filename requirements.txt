@@ -11,7 +11,7 @@ jupyter-core==4.5.0
 matplotlib==3.0.3
 matplotlib-venn==0.11.5
 mesh-tensorflow==0.0.5
-numpy==1.16.5
+numpy==1.22.0
 pandas==0.24.2
 pandas-datareader==0.7.4
 pandas-gbq==0.4.1
